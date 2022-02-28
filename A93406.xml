@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The picture of a new courtier drawn in conference, between, [brace] Mr. Timeserver, and Mr. Plain-heart. In which is discovered the abhominable practises and horrid hypocrisies of the Usurper, and his time-serving parasites. In which a Protector having been in part unvailed, may see himself discovered by I.S. a lover of Englands dear bought freedomes.</title>
+            <author>I. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93406</idno>
+            <idno type="STC">Wing S42</idno>
+            <idno type="STC">Thomason E875_6</idno>
+            <idno type="STC">ESTC R206568</idno>
+            <idno type="EEBO-CITATION">99865693</idno>
+            <idno type="PROQUEST">99865693</idno>
+            <idno type="VID">168376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168376)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 132:E875[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The picture of a new courtier drawn in conference, between, [brace] Mr. Timeserver, and Mr. Plain-heart. In which is discovered the abhominable practises and horrid hypocrisies of the Usurper, and his time-serving parasites. In which a Protector having been in part unvailed, may see himself discovered by I.S. a lover of Englands dear bought freedomes.</title>
+                  <author>I. S.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year of Englands great trouble and slavery, and are to be found at the signe of the peoples liberties, right opposite to the Usurpers Court, 1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation of Thomason copy: "Aprill 18 Cast about [illegible]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:168376:1" rendition="simple:additions"/>
+            <p>The PICTURE of a New <hi>CO<g ref="char:V">Ʋ</g>RTIER</hi> drawn in a Conference, between, Mr. <hi>Timeſerver,</hi> and Mr. <hi>Plain-heart.</hi>
+            </p>
+            <p>In which is diſcovered the abhominable Practiſes and horrid Hypocriſies of the Uſurper, and his time<g ref="char:EOLhyphen"/>ſerving Paraſites.</p>
+            <p>In which a PROTECTOR having been in part unvailed, may ſee himſelf diſcovered by <hi>I. S.</hi> a Lover of <hi>Englands</hi> dear bought Freedomes.</p>
+            <q>
+               <bibl>
+                  <hi>Ezek. 28.15.</hi>
+               </bibl>
+               <p>Thou waſt perfect in the wayes from the day that thou waſt created, till iniquity was found in thee.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 24.24.</hi>
+               </bibl>
+               <p>He that ſaith unto the wicked, thou art righteous, him ſhall the people curſe, and Nations ſhall abhor him.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 10.9, 10, 11.</hi>
+               </bibl>
+               <p>He lyeth in wait ſecretly as a Lyon in his den, he lyeth in wait to catch the poore, he doth catch the poore, when he draweth him into his net. He croucheth and humbleth himſelf, that the poore may fall by his ſtrong ones. He hath ſaid in his heart, God hath forgotten, he hideth his face, he will never ſee it.</p>
+            </q>
+            <p>Printed in the year of <hi>Englands</hi> great touble and ſlavery, and are to be found at the ſigne of the peoples Liberties, right op<g ref="char:EOLhyphen"/>poſite to the Uſurpers Court, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:168376:2"/>
+            <head>A Conference between Mr. <hi>Time-ſerver,</hi> and Mr. <hi>Plain-heart.</hi>
+            </head>
+            <p>MY dear Friend, how is it with you? me thinks you look ſomewhat ſad and dejected, as if all were not well?</p>
+            <sp>
+               <speaker>Plain-heart,</speaker>
+               <p>Sir, I ſuppoſe I am a ſtranger to you, and therefore I wonder you ſhould ſalute me as your friend, or take notice of my ſad looks: Indeed Sir, I know you not; I am bold therefore to crave your Name?</p>
+            </sp>
+            <sp>
+               <speaker>Time ſer.</speaker>
+               <p>My name is <hi>Time-ſerver;</hi> I was very well acquainted with you ſome years ago.</p>
+            </sp>
+            <sp>
+               <speaker>Pl. h.</speaker>
+               <p>I pray you ſir, where?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, in the Army, when the Engagement was made at <hi>Tri<g ref="char:EOLhyphen"/>plo heath,</hi> and the Remonſtrance at St. <hi>Albans;</hi> and at the ſigning of the Engagement to be true to the Common-wealth, as eſtabliſhed without King or Houſe of Lords; then was I intimately acquain<g ref="char:EOLhyphen"/>ted with you, and your Brother <hi>Sincerity,</hi> and all the reſt of thoſe good ſouls, which endeavoured <hi>Englands</hi> freedome; then I was as forward as any to propoſe good things to make the Nation happy, and to ſecure the Liberties of every Engliſh man: and to root out Monarchy, root and branch, and ſettle the government by way of a Free State.</p>
+            </sp>
+            <sp>
+               <speaker>Pl.h.</speaker>
+               <p>I perceive by what you have ſaid, that heretofore you and I have been acquainted: what is the reaſon we are not ſo ſtill?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Indeed ſir, the reaſon is, becauſe the times are altered, for my care is to comply with great mens actions, be they good or bad: When they were for good things, then I like a ſon of thun<g ref="char:EOLhyphen"/>der, cryed down Oppreſſion, whether it lay upon the Conſcience or the bodies of men? but eſpecially that grievous burthen of Tythes, which the people were forced to pay to the National Miniſtery, that I may ſeemed to hate with a perfect hatred, and made that an argument, why the Old Parliament ſhould be broken, becauſe they had not removed that inſupportable burthen: but when I perceived the General had changed his minde, then I altered my courſe in the twinckling of an eye, and preſently, that I might keep pace with the times; I commended the thing that I once diſprai<g ref="char:EOLhyphen"/>ſed and juſtified, that which I once condemned: ſo that having
+<pb n="3" facs="tcp:168376:2"/>changed my principles, and the place of my aboade, I am ſomewhat grown out of your knowledge.</p>
+            </sp>
+            <sp>
+               <speaker>Pl.h.</speaker>
+               <p>I pray ſir, where is the place of your aboad?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, I am at preſent a Courtier, and dwell at White-hall.</p>
+            </sp>
+            <sp>
+               <speaker>Pla.</speaker>
+               <p>Indeed that is a place which I have not been at great while, for I was baniſhed from thence, at the firſt errecting of the new Court: for none of my name, <hi>viz. Plain-heart</hi> could abide there any longer, without making Ship-wrack of Faith and a good Con<g ref="char:EOLhyphen"/>ſcience, in conniving at the great mans wickedneſſe, which is grown to that magnitude, that it may be deſcerned with out any Spectacles. And more then this, I could tell you, which would make your great Maſters ears tingle, and you bluſh if there were but a dram of honeſty in either of you.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I pray you go on, and ſpeak your minde freely, and I ſhall conſider what you ſhall ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Pla.</speaker>
+               <p>But ſir, there is no wiſdome in that, unleſſe I were ſure you are not a Spie, or an Emiſary, employed by his Talneſſe to en<g ref="char:EOLhyphen"/>ſnare the plain-hearted, for he keepeth a great herd of ſuch beaſts, who are to feign themſelves juſt-men, though when the plain-hearted caſt their Pearls before them, they may turn again and rent them; and therefore I am not free to diſcourſe, unleſſe you give me aſſurance you will not betray me.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, I can give you no aſſurance, but my promiſe and my oath that I am no Spy, and if that will not ſerve, you may do as you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pla.</speaker>
+               <p>And that is not in my account worth two ſtraws, for did not you Swear and Vow, Covenant and Promiſe againſt thoſe ve<g ref="char:EOLhyphen"/>ry things, that are now done by you, and this accompanied with Prayers, Faſtings and appeals to heaven, that God would give Te<g ref="char:EOLhyphen"/>ſtimony to the ſincerity of your intentions; and yet for all this, you have diſſembled with God and men, as thouſands of this Na<g ref="char:EOLhyphen"/>tion can witneſſe and do with grief of heart, and ſadneſſe of Spirit; and therefore, why may you not forſwear your ſelf and deceive me?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, I can excuſe my ſelf very well from being a Covenant breaker, although I have acted contrary to my former engagements, I being neceſſitated to do as I have done: but it may be you will ſay the neceſſity was of our own making, but leaving that I deſire you to reſolve me theſe enſuing queſtions, which I ſhall propoſe for no other end then ſatisfaction.</p>
+            </sp>
+            <pb n="4" facs="tcp:168376:3"/>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>If your Queſtions be of publick concernment, I ſhall en<g ref="char:EOLhyphen"/>deavour to reſolve them, come on it what will.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>They are of ſuch concernment, that they reach him which ſitteth upon the Throne, and the pooreſt Peaſant in the three Na<g ref="char:EOLhyphen"/>tions.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Then go on and ſpeak your mind freely, and though I have cauſe to ſuſpect your intentions, yet ſeeing we ſhall confer of matters relating to the good of my generation, I am the more willing to proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Time.</speaker>
+               <p>Whether the General ſince he aſſumed the government of the three Nations, or took on him that Protectoral Office, do in any way, in your judgement differ from the King (except in name:) or the things ſo long practiſed by him.</p>
+            </sp>
+            <sp>
+               <speaker>Plain</speaker>
+               <p>To which I anſwer, the difference that is lyeth onely in this, that his little finger is thicker than the Kings loins, as will appear by theſe conſiderations. Firſt, his impriſoning of men con<g ref="char:EOLhyphen"/>trary to law, at his own will and pleaſure; yea, many of the Com<g ref="char:EOLhyphen"/>mon-wealths beſt friends, and have kept them in priſon many moneths together without ſeeing the face of any accuſer or com<g ref="char:EOLhyphen"/>ming to any triall at law, the truth of which may be evinced by many inſtances, <hi>viz</hi> Major Gen. <hi>Harriſon,</hi> Major Gen. <hi>Ov<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rton,</hi> Lievt. Gen. <hi>Ludlow,</hi> Quarter-maſter General <hi>Courtu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> Coll. <hi>Rich,</hi> Coll. <hi>Aldered,</hi> Coll. <hi>Burch,</hi> Lievt. Coll. <hi>Lilburn,</hi> Major <hi>Wildman,</hi> Mr. <hi>Carry,</hi> Mr. <hi>Feake,</hi> Mr. <hi>Rogers,</hi> Mr. <hi>Spittlehouſe,</hi> Mr. <hi>Stirgion,</hi> and o<g ref="char:EOLhyphen"/>thers, which I ſhall not name at preſent, that are forced to drink of the ſame cup of his Will and Pleaſure: ſo that we may ſay, the King chaſtiſed us with Whips, but <hi>Cromwel</hi> chaſtiſeth us with Scor<g ref="char:EOLhyphen"/>pions: Secondly, the King aſſumed a power to levy money upon the people without their conſent in Parliament, and in this <hi>Crom<g ref="char:EOLhyphen"/>well</hi> is not wanting; for where the King raiſed a ſhilling without conſent in Parliament, he raiſeth ten to maintain himſelf and fa<g ref="char:EOLhyphen"/>mily, and his Allies in pride pompe and pleaſure; ſo that he out<g ref="char:EOLhyphen"/>ſtripeth him that dwelt in White hall before, in doing that the King durſt never do. Thirdly, The King diſſolved but two Parlia<g ref="char:EOLhyphen"/>ments in 20 years, but this ſtrange Monſter have deſtroyed 3. in leſſe then 3 years, the firſt of which raiſed him from a poor mean fortune, to be firſt the Captain of a Troop, and then a Coll. and at laſt to be their General, who moſt unworthily turned his batteries upon his Maſters, by which act of his, the old proverb is verified, That
+<pb n="5" facs="tcp:168376:3"/>ſome bring up a Bird to pick out their own eyes. Fourthly, The King ſent out Fleets &amp; Armies, with out conſent in Parliament, as appeareth by the buſineſſe of <hi>Rochel</hi> and the Iſle of <hi>Ree,</hi> for all which he was judged an Offender, and loſt his head as a Traytor to the Common-wealth: But in this, <hi>O.</hi>P. is not behinde his Predeceſſor (except in the puniſhment) who ſent a Fleet of ſhips to <hi>Hiſpaniola,</hi> to fetch ſome Spaniſh gold and ſilver, which was moſt ſhamefully beaten by a few Cow-killers, and many of them ſlain if not all periſhed, whoſe blood I believe wil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly at <hi>Cromwels</hi> doore. Fiftly, The King ſtoped the free courſe of Law, that ſo his tyranny and Oppreſſion might be the better hid from the eyes of men; and in this <hi>O.</hi> P. hath kept pace with the King, for he put three Counſel<g ref="char:EOLhyphen"/>lors into the Tower for pleading in Mr. <hi>Conys</hi> Cauſe, that ſo he might not onely ſtop the free courſe of the law, but alſo fright the people from ſeeking any redreſſe that way.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Indeed you have ſpoken plainly to the queſtion, and doubt<g ref="char:EOLhyphen"/>leſſe, there is ſome truth in what you have ſaid? but his Highneſſe having fixed a pair of ſilver Spectacles upon my Noſe, through which I diſcern his actions to be of a better complection then you have preſented them: but my deſire is to go on to the next queſtion?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Indeed ſir, you are like to <hi>Pilates</hi> Souldiers, who although they were convinced of the truth of Chriſts reſurrection; yet larg money made them ſay the contrary: yet go on and propound your queſtion?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>The queſtion is, whether his Highneſſe have not ſufficient warrant in the ſcripture to juſtifie him in the things he hath done?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>To which I anſwer, doubtleſſe the ſcripture is ſo far from owning his actions, or the things he hath done, that they doe con<g ref="char:EOLhyphen"/>demn him for ſo doing; as appeareth, <hi>Deut.</hi> 17.16. and 20. <hi>verſ.</hi> contrary to which he hath acted in three things: Firſt, he multi<g ref="char:EOLhyphen"/>plyeth great revenues to himſelf: Secondly, he cauſeth the people to return to their old Ægyptian bondage, (<hi>viz.</hi>) the will of a ſin<g ref="char:EOLhyphen"/>gle perſon: Thirdly, He hath exalted himſelf above his brethren; yea, above his Maſters. And in 2 <hi>Sam.</hi> 23.3. to which he is unſu<g ref="char:EOLhyphen"/>table in two things, for ſaith the Text, He that ruleth over men muſt be juſt, ruling in the fear of God, which he hath not in all the fore-mentioned things done; for had he feared God, he would not have caſt away his good old Cauſe and the intereſt of Gods people. Secondly, nor have done ſo many unjuſt things as he hath done.</p>
+            </sp>
+            <pb n="6" facs="tcp:168376:4"/>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I pray you ſir, reſolve me this queſtion, whether the known or good laws of <hi>England</hi> will not juſtifie his Highneſſe in aſſuming the government, and in the things he hath done for the maintain<g ref="char:EOLhyphen"/>ing of the ſame?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Sir, you may have an anſwer to this queſtion, and fully ſatisfie your ſelf in four<note n="*" place="margin">Which acts make it high treaſon to proclaim Charls Stuart, or to ſet up any one man in the ſupream Magiſtra<g ref="char:EOLhyphen"/>cy.</note> acts of Parliament, the one made in <hi>Jan.</hi> 30 <hi>An.</hi> 48. another in <hi>March</hi> following, the third act in <hi>May</hi> 1649 the other in <hi>July</hi> 17. <hi>An.</hi> 49. beſides the body of the anci<g ref="char:EOLhyphen"/>ent laws of <hi>England</hi> for the violating of which <hi>Strafford, Canterbury,</hi> &amp; the very King of <hi>England</hi> ſuffered death; all which laws cry out againſt your Maſter and ſay, that he had no encouragement from them to do, as he hath done: for they which made thoſe laws did appoint them to ſtand in the Gap, to keep out all ſuch intruders, but he hath troden them down like mire in the <gap reason="illegible" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap> if they were not longer uſefull, and they are ſo far from owning his acti<g ref="char:EOLhyphen"/>ons, or the things he hath done, that they ſay he is a traitor for ſo<g ref="char:EOLhyphen"/>doing.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>If neither the word of God or the laws of the Land will own his actions, I pray ſir, what will?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Sir, the Earle of <hi>Straffords</hi> inſtructions to the King, that grand piece of ſtate policy or machivils Prince will own his Lord<g ref="char:EOLhyphen"/>ſhips actions; they being the fruits of none other, but ſuch cor<g ref="char:EOLhyphen"/>rupt Trees; and doubtleſſe his talneſſe hath conſulted with them once and again, how he ſhould manage his affairs, and carry on his deſigns to enſlave the people, and to make them vaſſals to his own Will, Luſt and Pleaſure; and from them he hath received more counſell then from any divine Oracle; ſo that if <hi>Strafford</hi> were now alive, he muſt needs ſalute your Maſter as his elder brother; for he hath ſucked the breaſts of his mother, and been baptiſed into the ſame ſpirit, even the ſpirit of oppreſſion: but it may be you will call for proof of this? To which, I anſwer, three things: Firſt, There is a Bookſeller as I am informed, that bound up <hi>Straffords</hi> Inſtructions for your great Maſters uſe. Secondly, he was com<g ref="char:EOLhyphen"/>manded to keep it very ſecret, which intimateth that he intendeth to draw the water of ſtate policy out of <hi>Straffords</hi> Wels: Thirdly, the actions he doth &amp; the meaſures he makes to the people, do fully declare, that he meaſureth by <hi>Straffords</hi> rule; and there is a maxime in <hi>Muchivel,</hi> that he which knows not how to diſſemble, knoweth not how to rule: but your Maſter is excellently accompliſhed for
+<pb n="7" facs="tcp:168376:4"/>the buſineſſe of diſſembling; for he hath the moſt excellent art of equivocation, and can lie moſt miſteriouſly; he can invent Engage<g ref="char:EOLhyphen"/>ments for the people, and diſpence with them when he pleaſeth; ſwear and forſwear as the winde turns for his own advantage: he can turn up his eyes, and lift up his hands, and appeal to heaven for God to witneſſe to the ſincerity of his intentions, and uſe ſweet and Saint-like expreſſions, as if his words were tempered with nothing but Oyle, Butter, and Hony, and cry aloud for the Cauſe of God, and the good of the people; and all this to make himſelf great; and by good words and fair ſpeeches deceive the hearts of the ſimple: an excellent man to make a Prince according to machivels rule: thus you have my perſwaſions concerning the laſt thing you propoſed.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I ſhall conſider of what you have ſaid, and if I finde that I may be of your mind, and keep my honour, and profit, and place, under his Highneſſe; and let me tell you privately, that I could ſay Amen to what you have ſaid, were it not that I love the honour and praiſe of men more then the honour and praiſe of God. But I pray ſir, reſolve me this queſtion: Whether his Highneſſe may not expect better ſucceſs in theſe his late undertakings then that which befell <hi>Strafford</hi> and the King?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>To this I anſwer, that his ſucceſſe will be the ſame or worſe if worſe can be, as will appear by theſe following conſide<g ref="char:EOLhyphen"/>rations: Firſt, he that walks in <hi>Jeroboams</hi> ſins, ſhall partake of <hi>Je<g ref="char:EOLhyphen"/>roboams</hi> plagues: ſecondly, he knowing the judgements of God, that they which doe ſuch things are worthy of death, doth not on<g ref="char:EOLhyphen"/>ly the ſame, but have pleaſure in them which do them; therefore his ſucceſſe will be the ſame, <hi>Rom</hi> 1.32. Thirdly, He that judgeth and condemns an other for doing unrighteous things, and he him<g ref="char:EOLhyphen"/>ſelf do the ſame, doubtleſſe he ſhall not eſcape the judgment of God. <hi>Rom.</hi> 23. Fourthly, if <hi>Strafford</hi> the grand maſter of ſtate policy could not keep his own head upon his ſhoulders, nor eſcape the hand of vengeance, that God hath ſtretched out againſt Op<g ref="char:EOLhyphen"/>preſſors: Then doubtleſs the Scholler will not go free. Fifthly, If the King which was a great ſtudent in the politicks, yet could not keep himſelf from bowing down to the block of deſtruction, that juſt reward for his unrighteous deeds; from all which, I con<g ref="char:EOLhyphen"/>clude your Maſters portion will be the ſame, if not prevented by timely repentance.</p>
+            </sp>
+            <pb n="8" facs="tcp:168376:5"/>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, as to theſe thing, I will ſay more when the times are altered, for you know my manner is to be for any thing that is profitable, although its contrary to equity and juſtice, but we will paſſe to the next queſtion. Whether his Highneſſe did not ſpeak like a gracious man in reproving the laſt Parliament for put<g ref="char:EOLhyphen"/>ting their finger on their brothers conſcience?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>To this I anſwer, his tongue was like a good Samaritan, but his heart like a Jew, which have nothing to doe with one ano<g ref="char:EOLhyphen"/>ther; he ſpake like a Saint, but acted like a Serpent, as appears in that, the ſame man which the Parliament impriſoned for his con<g ref="char:EOLhyphen"/>ſcience, hath he impriſoned ſince for the ſame, and after ten or twelve weeks reſtraint commanded him to be carried by his mer<g ref="char:EOLhyphen"/>cenarie fouldiers to <hi>Portſmouth,</hi> and there ſnipt him and ſent him to a remore Iſland to be kept in ſtreight and cloſe impriſonment; &amp; yet could reprove the Parliament as confidently, as if they had committed the greateſt abhomination in putting their finger, on their brothers conſcience; although he can thruſt in his whole hand.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, but what end ſhould his Highneſſe have in reproving the Parliament, for that which I confeſſe he himſelf hath done ſince?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>To this I anſwer, firſt ingenerall that his own Advan<g ref="char:EOLhyphen"/>tage was his end more then any good to the freedome of mens conſciences. 2. More particularly, firſt, he knew he had diſſatis<g ref="char:EOLhyphen"/>fied many honeſt men by his firſt Speech, and that there was none other way to draw them in, but putting on his old vaile of godly pretences in ſpeaking for liberty of Conſcience, and reproving them which would have infringed it. Secondly, that he might commend himſelf to the people, as one that was tender of their conſciences, and that his large hollow heart could hold all that were godly, though differing in judgment, and that they need not fear to put their truſt under the ſhaddow of his wings, for he was willing to be their ſervant for their goods. Thirdly, that he might the better perſwade the people that Parliaments were of little uſe, as they might ſee by the actions of the laſt, who ſpent their time about errours in Religion, and neglected the taking a<g ref="char:EOLhyphen"/>way the great errour in the ſtate. Thus you have my perſwaſions to the laſt queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, I ſee you are like your name, <hi>viz. Plain hearted,</hi> and that you are not afraid to turn your inſide outward, which is a
+<pb n="9" facs="tcp:168376:5"/>thing that my ſoul dreads, becauſe all my beauty lyeth in the out<g ref="char:EOLhyphen"/>ſide, you would hardly believe how the news of the Protector be<g ref="char:EOLhyphen"/>ing unvailed, made my very heart ſhake; alſo I muſt tell you, I am more free to diſcourſe in private than in publique; therefore I pray at this time reſolve me this queſtion: What the reaſon is, his Highneſſe put in execution that bloody Ordinance, which was made in 48 againſt the things they call blaſphemy and hereſie?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Doubtleſſe you are not ignorant of the great ſervice this Ordinance might doe your Maſter, for it concludeth a man to be an heretick, which holds that a man is not to believe more than his reaſon can comprehend: Now this is of ſingular uſe for your Maſter, for he that believes God called him to the government, muſt believe more then his reaſon can apprehend. Secondly, he that be<g ref="char:EOLhyphen"/>lieves there is a ſpark of honeſty or chriſtian goodneſſe in the great man before mentioned, muſt believe more than his reaſon can com<g ref="char:EOLhyphen"/>prehend. Thirdly, He that believes that O.P. intends any good to theſe three Nations, he muſt believe more than his reaſon can com<g ref="char:EOLhyphen"/>prehend. Fourthly, He that believes <hi>England</hi> is in a better condition, then it was in the dayes of the long Parliament, he muſt believe more than his reaſon can comprehend. Fifthly, He that believes himſelf and his poſterity are any better than ſlaves, and meer vaſſals to the will of O.P. he doth believe that which he hath no reaſon, for as you may perceive by that which fell from his own lips, <hi>viz.</hi> That he had an unlimitted power till he was pleaſed to limmit himſelf, in the paper which he calleth the Government: which puts me in mind of an old Maxime, that he which bindes may looſe, and he that hath power to looſe can binde; from which you may eaſily diſcern, that our Lives, Eſtates and Liberties depend upon his will and grace. therefore he that believ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s we are any better than ſlaves, believeth more than his reaſon can comprehend; and there<g ref="char:EOLhyphen"/>fore O. P. had need to make this Ordinance paſſe for good law, that the people may be bound to ſtretch their faith beyond their reaſon, that in ſo doing they may believe <hi>Cromwel</hi> to be that which indeed he is not, an honeſt man.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, I have a word to ſpeak on my Maſters behalf, and that is, he is bound by his Oath to maintain all the Laws, Statutes and Ordinances as well as any one of them; and therefore he muſt maintain this before mentioned.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Suppoſe that which you have ſaid were true, yet you have not acquitted your Maſter from being a tranſgreſſor for the act of
+<pb n="10" facs="tcp:168376:6"/>Parliament, that eſtabliſheth two ſhillings ſix pence a day for the Horſemen, and ten pence a day for the foot is already broken: and this is as good law as that before mentioned (if not a great dealt better) yet your Maſter can diſpence with his Oath at this turn, and reduce the Horſe to two and three pence a day, and the foot to nine pence.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, you endeavour to inſinuate that my dear Maſter is par<g ref="char:EOLhyphen"/>tial in the law, which is a thing that muſt not be admitted, for I can ſhew you good reaſons of State, why the ſouldiers pay ſhould be reduced.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Let me hear them, and I will conſider them?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Firſt, The ſouldiers being inſenſible of the grievous bur<g ref="char:EOLhyphen"/>then of Tythes that the Country-man lyeth under; his Highneſſe to make them, if not ſenſible, yet conformable to the reſt of their neighbours, thought good to take one penny off ten out of the ſouldiers pay; that ſo they may, if they pleaſe, tell their country landlords, we are become like you, for now we alſo pay Tythes. Secondly, His Highneſſe being neceſſitated to raiſe money to main<g ref="char:EOLhyphen"/>tain his Court in that ſplendor which becommeth a Prince of his extraction; and in ſome meaſure to be like the Kings of other na<g ref="char:EOLhyphen"/>tions; and let me tell you a Protectors neceſſity is above law. Thirdly, There being many of the old ſouldiers which ſerved the Parliament againſt the intereſt of a ſingle perſon, which now ſerve him onely for a preſent livelihood, which his Highneſſe well e<g ref="char:EOLhyphen"/>nough perceiving, took away part of that, that ſo he might be rid of them. Fourthly, That he might ingratiate himſelf in the affe<g ref="char:EOLhyphen"/>ctions of the people, that rather than he will oppreſſe them, he will pinch a penny a day out of the bellies of the poor foot ſouldiers; and if they will take care to keep themſelves honeſt, he will keep them poore; thus I have given you my reaſons of State, to juſtifie my Maſter in taking off a part of the ſouldiers pay.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Let me tell you that you ſpeak very much like a Cour<g ref="char:EOLhyphen"/>tier in what you have ſaid: and truly neither I nor my brother <hi>Sincerity,</hi> nor any of the good honeſt ſoules that ingaged with us in the late war, did ever think to have been ſo abſolutely cheated by you till we ſaw all your Prayers, Faſtings, and Appeals to heaven, turned into an Engine of State policy; and if theſe be your Court tricks, I hope my ſoul ſhall never enter into your ſecrets; and tru<g ref="char:EOLhyphen"/>ly my bowels yerns for the poore ſouldiers, who have run ſo many
+<pb n="11" facs="tcp:168376:6"/>hazzards, and fought ſo many famous battels, ſtormed ſo many towns, waded through ſo many Rivers, with the loſſe of limbs and blood; beſides all the hunger and cold, and lodging on the ground, which they have gone through, doing ſummer ſervice in winter ſeaſon; and after all this, to have the tenth part of their pay taken away, and ſpent upon your new Court, that the Gentle<g ref="char:EOLhyphen"/>men Uſhers, and Gentlemen Waiters, the Grooms of the Stoole, Gentlemen Sewers, beſide the Fidlers, and others that I could name, which ſhine in their gold and ſilver; and that this might be main<g ref="char:EOLhyphen"/>tained, the poore foot ſouldiers muſt contribute a peny a day, to<g ref="char:EOLhyphen"/>ward the deffraying of this charge: but time calling me away, if you have not elſe to ſay, I will be gone.</p>
+            </sp>
+            <sp>
+               <speaker>Tim</speaker>
+               <p>I would have you reſolve me this queſtion, whether or not, it had been more juſt and honeſt for his Highneſſe to have reduced ſome of the great Officers (which ſome think might be very well ſpared) and ſome of the pay of them that remain, then to have taken three pence a day from the Horſe and a peny from the Foot.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>To which I anſwer, it had been more juſt and honeſt ſo to have done, but it would not have conduced ſo much to the ſettle<g ref="char:EOLhyphen"/>ment of his greatneſſe, which is a thing that muſt be prized and pre<g ref="char:EOLhyphen"/>ferred before all the juſtice and equity in the world: as appeareth, Firſt, the Officers have taken a great deal of pains and care to exalt him, and therefore he muſt take heed he doth not diſpleaſe them, for fear they which did ex<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt ſhould abaſe. Secondly, they are con<g ref="char:EOLhyphen"/>tent that he ſhould have 200000. pound a year; and therefore he muſt let them have good round ſummes. Thirdly, The loſſe of one Officer may be more detriment to him and his affairs, then the loſs of a hundred private men. Fourthly, the private ſouldiers never found the ſweetneſſe of great revenue as the Officers have done; and therefore they may part with their tenths with the leſſe grief: Thus I have given you my reſolve as to that queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, I ſee you have ſome Inſpection into our actions at Court, which maketh me the more willing to confer with you; and I deſire you to reſolve me this queſtion, which depends upon a ſaying of my Maſter to the godly people, which petitioned him to make void the Ordinance of Blaſphemy and Hereſie; the words were theſe, That if they took care to cleanſe the Churches by Ex<g ref="char:EOLhyphen"/>communication, he muſt take the like care of the Common-wealth: My deſire is to know of you what you think his Highneſſe will cleanſe the Common-wealth of?</p>
+            </sp>
+            <pb n="12" facs="tcp:168376:7"/>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Truly Sir, you have put me to a ſtand, for I cannot ima<g ref="char:EOLhyphen"/>gine what he ſhould intend in that ſaying, for if he ſhould cleanſe the Common-wealth of Hypocrites, then there would be one leſſe at White-hall. Secondly, if he ſhould cleanſe the Common-wealth of Oppreſſors, then the Broom would ſweep it ſelf away. Thirdly, If the Common-wealth ſhould be cleanſed of Covenant-breakers, then where would he finde a habitation? Fourthly, if of ſuch as devoure the man that is more righteous then himſelf, then our new Monarchy would receive a blow? Fifthly, if the Common-wealth ſhould be cleanſed of ſuch a faſt and pray, and under that pretence devoure Widdows houſes, then it is to be feared, we ſhall looſe him? ſo that I ſhall lay down no reſolve to this queſtion; but leave it for you to enquire of your great Maſter, what the Com-wealth ſhall be cleanſed of?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, I could have given a better anſwer my ſelf then this which you have given?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>I pray you Sir do, and I will conſider it?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, firſt, His Highneſſe will cleanſe the Common-wealth of her money, the love of which is the root of all evill: ſecondly, he will cleanſe her of ſuper fluons members, and ſend them to <hi>Hiſpa<g ref="char:EOLhyphen"/>niola,</hi> either to be killed by the <hi>Spanyards,</hi> or elſe to ſtarve there for want of bread: thirdly, he will cleanſe the Common-wealth of Juſtice, that it ſhall be no more heard in our land: fourthly, of the greatnes of T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade by letting in the French upon our Merchants and Manufactors, that the French by having a free-trade may re<g ref="char:EOLhyphen"/>duce the Engliſh men to like poverty; and conſequently to like vaſſellage with themſelves: and without doubt, the people being brought low, will be the eaſierly ruled: Fifthly, he will cleanſe it of the benefit of her known law, eſpecially, that which provi<g ref="char:EOLhyphen"/>deth againſt paying of Taxes and illegal impriſonments; witneſs his dealing with the Lord <hi>Gray</hi> of <hi>Grooby.</hi> Sixthly, He will cleanſe the Common-wealth of Parliamentary Priviledges, that they may be no more a burthen to him: and now I will proceed to may laſt queſtion, whether or not you think his Highneſſe Kingdome will continue long?</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>To this I anſwer, his Kingdome is like to a man that is born of a woman, which continueth but a few dayes and is full of trouble, it came up like a flower and will vaniſh like a ſhaddow, and my reaſons why I think ſo, are theſe: Firſt, becauſe the <hi>Spanyard</hi> will not part with his Mines in the Weſt-Indies, which was inten<g ref="char:EOLhyphen"/>ded
+<pb n="13" facs="tcp:168376:7"/>to be obtained for the ſupport of this kingdome of his. Secondly, Ge<g ref="char:EOLhyphen"/>neral <hi>Blake</hi> is come home without his Plate-Fleet. Thirdly, The City is not willing to part with much money upon truſt, except the Eaſt Indian Mer<g ref="char:EOLhyphen"/>chants have ſome more money in Controverſie, which they are willing to depoſite in his hands, till they have wit to agree about it. Fourthly, The peoples eyes begin to be open, and they can now ſee and do ſay there is no law that requires Taxes to be paid. And upon that account many do re<g ref="char:EOLhyphen"/>fuſe as juſtly they may. 5. The ſoldiers grumble for the loſſe of the tenth part of their pay, and are ready to ſerve a better Maſter if occaſion be. 6. His own fears are ſuch, that he is a terrour to himſelf, and dare not go forth with<g ref="char:EOLhyphen"/>out ſtrong guards to defend him; and as his fears increaſe, and his hopes faile, his guards are ſtrengthened; and doubtleſſe if this new Government were of God, there would not be all this ſtir to ſupport it. Seventhly, Ma<g ref="char:EOLhyphen"/>ny of the Officers and ſouldiers are ſo convinced in their Conſciences that this kingdome is quite contrary to the things they engaged for; that there is not one in five, that will ſtrike a blow to maintain it, if it ſhould be put to a deciſion that way; ſo that I am perſwaded it is very craſie and will not continue long.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I muſt confeſſe that when I conſider of theſe things, it puts me into a grievous agony, ſo that my bowels are pained, and my heart trembleth, and my bones ſhake at the very thoughts of an alteration: Alas, alas! what will become of my dear Maſter, when his Kingdome is weighed in the Bal<g ref="char:EOLhyphen"/>lance and found to light? who will have the fine Houſes, the brave Parkes, the pleaſant Fields and delightfull gardens, that we have poſſeſſed without any right, and built at other mens coſt, who ſhall enjoy the delight of the new Rivers and Ponds at Hampton Court, whoſe making coſt vaſt ſums of money, and who ſhall chaſe the game in the Hara-warren, that my dear Ma<g ref="char:EOLhyphen"/>ſter hath incloſed for his own uſe, and for ours alſo that are time-ſervers? Oh how ſhall we be able to ſee our pleaſant things taken from us, to be im<g ref="char:EOLhyphen"/>ployed to better uſes &amp; all our pleaſant<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſongs turned into mourning, &amp; in Whitehall ſhall ſound no more the Trumpet, Harp, Lute and Organ, beſides other inſtruments of Muſick in which we took much delight; thoſe will then be taken from us, and our brave Vellory of ſinging Birds will be deſpi<g ref="char:EOLhyphen"/>ſed amongſt the Commons; becauſe it was built at their great charges, and all our male dear Does and Prickets will then be meat for Velder mouths; What cauſe ſhall we have to curſe our Court Chaplines, which ſewed pillows of ſecurity under our arms, as if we ſhould never be moved? who made us believe that God had made an everlaſting Covenant with us ordered in all things and ſure: and that our exaltation was no humane contrivance, but the good pleaſure of God, which ſaid they brought us to this dignity, and that no inſtrument formed againſt us ſhould proſper, but we ſhould long en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y the works of our hands, and alwayes rancked us amongſt the Saints, as
+<pb n="14" facs="tcp:168376:8"/>if we had been really godly; and as they tickled our ears with theſe ſayings, even ſo the Confectioners with their ſweet meats, and delicious Wines did pleaſe our pallates; beſides all our other dainty diſhes, fitly compoſed for carrouſing gallants, and dainty Ladies: Oh what will become of this court<g ref="char:EOLhyphen"/>ly brood, when a Common-wealth will be in faſhion? and a Parliament to call all our actions into queſtion? how ſhall we anſwer one action of a thou<g ref="char:EOLhyphen"/>ſand? Oh, miſery to think! and grief to conſider our condition: the earth will ſhake at the ſound of our fall, and few will bewaile our ſad diſaſter, and one thing that troubleth me more than all the reſt, which is this, that if I ſhould alter my courſe, and change my name from Time-ſerver to Rofer<g ref="char:EOLhyphen"/>mation, yet none will believe me, becauſe I have betrayed the dear purcha<g ref="char:EOLhyphen"/>ſed liberties of my Country, into the hand of an Uſurper; and broke all my Engagements, performed none of my promiſes; and when good men were ſent to priſon, I have given my voice againſt them; ſo that I am exceedingly afraid, that all my feigned tears and long prayers, frequent Faſtings, ſolemn Oaths, large promiſes will ſignifie but very little; becauſe we Time-ſervers gilded over all our unrighteous actions with ſuch lovely things, by which we have <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deceived the good meaning people; ſo that being once diſcove<g ref="char:EOLhyphen"/>red we are quite undone; for doubtleſſe the ſame meaſure that we have made to others, will be made to us, even to be cut up from cumb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the ground: And thus I have diſcovered my fears to you, and I pray make a good con<g ref="char:EOLhyphen"/>ſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Sir, you have made a very large complaint, and I muſt tell you, the thing you fear will doubtleſſe come upon you; for the wicked will be ſna<g ref="char:EOLhyphen"/>red in the works of their own hands, <hi>Pſal.</hi> 9.16. and taken in their own counſels, &amp; the cup which they have filled to others ſhalbe doubled to them, to the exceeding joy of the righteous, the very thoughts whereof maketh my heart to leap for joy, that the houſe of the wicked ſhalbe overthrown, but the tabernacle of the upright ſhall flouriſh, <hi>Prov.</hi> 14.11. and then ſhall I and my brother <hi>Sincerity</hi> have our mouths filled with praiſe; when the captives ſhall be releaſed with honour, even them which ſuffer for bearing teſtimony a<g ref="char:EOLhyphen"/>gainſt your great Maſters wickednes: Oh, the ſweet peace of a good conſci<g ref="char:EOLhyphen"/>ence, which is a continuall feaſt, its liberty in priſon, its joy in adverſity, life in death; therefore lift up your heads you priſoners of hope, for the day of Redemption is near, and then ſhall that word be verified, that the rod of the wicked ſhall not alwayes reſt upon the back of the righteous; and though your great Maſter may oppreſſe for a time, yet he ſhall come to his end and none ſhall help him: This is the portion of a wicked man with God, and the heritage of oppreſſors, which they ſhall receive of the almighty, if his chil<g ref="char:EOLhyphen"/>dren be multiplied, it is for the ſword, and his off ſpring ſhall not be ſatisfi<g ref="char:EOLhyphen"/>ed with bread, though he heap up ſilver as the duſt, and prepare raiment as
+<pb n="15" facs="tcp:168376:8"/>the clay: he may prepare it, but the juſt ſhall put it on, and the innocent ſhall devide the ſilver: Men ſhal clap their hands at him, and hiſſe him out of his place, <hi>Job</hi> 27.13. to the 23. The righteous ſhall ſee this and be glad, but the wicked ſhall tremble and quake, when this great mans hypocriſie ſhall be fully laid open and detected, and his ſecret diſignes and his ſubtill contri<g ref="char:EOLhyphen"/>vances to vaſſellize the people ſhall be obvious to every eye, and every fowle ſhall call for his feather, which he hath plucked from them by violence, to adorn that deſpicable brood of vain Courtiers: and then all the time-ſervers will mourn, weep and howle, for anguiſh of ſpirit, when they ſhall fall un<g ref="char:EOLhyphen"/>der ſequeſtration; glory be to <hi>Jehovah,</hi> that will bring down the mighty from their ſeats, and exalt the humble and meek, even ſo let all thine ene<g ref="char:EOLhyphen"/>mies periſh oh God.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Sir, I can no longer ſtay, for my heart is ſick, and my head is heavy with the thoughts of theſe things; and I have nothing to comfort me but this hope, that I ſhall go to my grave in peace before the evill day come, and ſo farewell.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>If you or your Maſter go to your grave in peace, then God hath not ſpoken by me: And ſo I take my leave, and remain an enemy to your Court, but a friend to the Common-wealth.</p>
+            </sp>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTCRIT.</head>
+            <p>
+               <hi>Let none take an offence becauſe the word</hi> Highneſſe <hi>is uſed in this ſhort Tract, for it onely is when</hi> Time-ſerver <hi>ſpeaketh, whoſe proper phraſe of ſpeech it is, and onely ſuch do delight to give flattering Tittles to men. And this may ſuffice to ſatisfie the impartiall Reader.</hi>
+            </p>
+         </div>
+         <div type="appendix">
+            <p>An Apendix to the proceding Treatiſe, by which the Nation may ſee what they expect from their new Courtiers: For doubtleſſe, the diſeaſe which is begun in the remote parts of this great body, will in time ſpread it ſelf into the very Heart and Head of the Common-wealth or Nation; for ſo it was not long ſince in the Weſt of <hi>England.</hi>
+            </p>
+            <p>Firſt, that an honeſt man being at law with one for a juſt debt, to the value of ſixſcore pounds, his Adverſary making application to major Gen. <hi>Disborrow,</hi> the ſaid Major Gen. ſent for the Plaintive, who when he came was commanded to deſiſt his ſuit; the honeſt man replied, he could not do it, without wronging himſelf and family; to whom the Major Gen. ſaid, that he was a perverſe fellow; and he ſhould go on with his ſuit this ſeven year if he would, but he would promiſe him, he ſhould never do good in it: and forthwith demanded a particular of his Eſtate, notwithſtanding the man was not within the qualifications of his Inſtructions, nor was ever an enemy
+<pb n="16" facs="tcp:168376:9" rendition="simple:additions"/>to the Parliament; and although his eſtate was not above 40<abbr>l.</abbr> 
+               <hi>per an.</hi> yet this <hi>Disborow</hi> was ſo mercileſſe, as to Fine him ten pound by the year to the Pro<g ref="char:EOLhyphen"/>tector (ſo called) his uſe; a Commiſſioner which ſate with <hi>Disborow,</hi> being asked whether this was juſtice? he replyed it was hard meaſure; and if the poore man would refer it, he would undertake to get off his Fine, which the poor man was forced to conſent unto, though to his great dammage.</p>
+            <p>Another piece of injuſtice, as bad as the former, was; That there being one of the late Kings party called before this <hi>Disborow,</hi> the man was asked, whether he would deſiſt a ſuit which he had in law againſt one who had made <hi>Disborow</hi> his friend, which ſuit was for the value of four or five hundred pound? the man ſaid, that they might, if they would, by the ſame rule, take all that he had; upon which ſaying without any more ado, this <hi>Disborow</hi> with the reſt of theſe new made Commiſſioners, Fined the man 30<abbr>l.</abbr> by the year to the Protect. though the mans eſtate was not 100<abbr>l.</abbr> by the year: the man being a<g ref="char:EOLhyphen"/>ſtoniſhed at this tyrannical decree, and not being able to diſcharge his Fine, was forced to deſiſt his ſuit, and then his Lordſhip took him off 20. pound by the year, of his Fine; and now he pays but ten. A third piece of this new kinde of juſtice, that the ſaid <hi>Disborow</hi> did, was, That a certain man, whom I could name, had a ſuit at law, for a ſum of money lent out of his purſe, was at the inſtance of his Adverſary ſent for before <hi>Disborow,</hi> and forcibly brought by the mercenary ſouldiers, and was kept in cuſtody till he had condeſcended to their unreaſonble determinations, which was <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> take onely his <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> money, with the loſe of the uſe and charges, which was much, by reaſon of the long forbearance, and a chargable ſuit at law; but the man at firſt refu<g ref="char:EOLhyphen"/>ſing to ſubmit to their corrupt wils: <hi>Disborow</hi> againſt the poore mans will granted the defendant a reference, and put it two Gentlemen to determine the buſineſſe, which determination was this, either to take the old debt with<g ref="char:EOLhyphen"/>out uſe or charges, or be ſent beyond the ſeas, either to <hi>Jamaco</hi> or ſome other place: the poore man being unwilling to be baniſhed his native Country, was forced to abide their Award. A fourth piece of the new juſtice which <hi>Disborow</hi> did, was upon a Gentleman in the Weſt, who being ſummoned before the Court creatures, or new created Commiſſioners in the weſt parts, who being forced before them, he was bold to ask them by what ſtatute they did what they did to him? and was for but asking that honeſt queſtion, fined 200 l. by the year; but upon his ſubmiſſion had all taken off, except 60 l. by the year, which the poor Gentleman muſt pay, to maintain a Militia force to to make himſelf and his country ſlaves: by all which inſtead of many more like inſtance of tyranny; you may ſee now the poore people of <hi>England</hi> are fairely delivered from being ſubject to a Parliament of their own chuſing, to be ſlaves to <hi>Cromwell</hi> and his creatures, which God nor man did never ſet o<g ref="char:EOLhyphen"/>ver this Nation.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
